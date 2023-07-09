@@ -124,6 +124,13 @@
    
      } 
         }
+@media screen and (max-width:500px) {
+     .header_social{
+       
+         display: none;
+   
+     } 
+        }
 .text-align-center{
     /* font-size: 75px; */
     margin-left: 13px;
