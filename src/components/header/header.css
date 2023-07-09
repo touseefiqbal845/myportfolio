@@ -127,10 +127,21 @@
 @media screen and (max-width:500px) {
      .header_social{
        
-         display: none;
+         
    
      } 
+  .me
+  {
+    
         }
+  .cta{
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+    font-size:5px;
+}
+}
 .text-align-center{
     /* font-size: 75px; */
     margin-left: 13px;
