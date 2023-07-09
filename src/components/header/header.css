@@ -133,7 +133,7 @@
   .me{
     width: 15rem;
   height: 15rem;
-/*      left: calc(50% - 11rem); */
+     margin-left:1px ;
   }
   
 }
