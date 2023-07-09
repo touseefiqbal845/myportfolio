@@ -127,13 +127,15 @@
 @media screen and (max-width:500px) {
      .header_social{
        
-          display: none;
+        display: flex;
+    margin-top: 120px;
    
      } 
   .me{
+   height: 15rem;
+    margin-left: 62px;
     width: 15rem;
-  height: 15rem;
-     margin-left:1px ;
+    margin-top: 152px;
   }
   
 }
