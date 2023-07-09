@@ -124,12 +124,17 @@
    
      } 
         }
-@media screen and (max-width:450px) {
+@media screen and (max-width:500px) {
      .header_social{
        
           display: none;
    
      } 
+  .me{
+    width: 15rem;
+  height: 15rem;
+/*      left: calc(50% - 11rem); */
+  }
   
 }
 .text-align-center{
