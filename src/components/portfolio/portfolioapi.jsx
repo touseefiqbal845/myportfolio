@@ -47,8 +47,8 @@ const Portfolioitem=[
       {
         image:img7,
         title:"Portfolio Website",
-        github:"https://github.com/touseefiqbal845/react-weather-api",
-        demo:"https://react-cnnnews-api-32v7.vercel.app/",
+        github:"https://github.com/touseefiqbal845/myportfolio",
+        demo:"https://touseefiqbal-git-main-touseefiqbal845.vercel.app/?vercelToolbarCode=Wo8FtwE4ij5NBz2#portfolio",
     },
       {
         image:img8,
