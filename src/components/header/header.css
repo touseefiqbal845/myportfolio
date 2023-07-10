@@ -116,10 +116,18 @@
 
      } 
         } 
-        
+         @media screen and (max-width:600px) {
+     .me{
+       
+         background: linear-gradient(var(--color-white), white);
+  width: 15rem;
+  height: 15rem;
+  
+     } 
+        } 
  @media screen and (max-width:800px) {
      .scroll_down{
-       
+        
          display: none;
    
      } 
