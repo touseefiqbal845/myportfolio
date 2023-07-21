@@ -32,7 +32,7 @@ const Header = () => {
           <h1  className="header_text m-3  text-center" >ReactJS Developer</h1>
            <h2 className="header_text m-3">Front-End Engineer</h2>
              <HeaderSocials />
-          <h3 className="header_text m-3">Full Stack React JS + C# + JS</h3>
+          <h3 className="header_text m-3">Full Stack [ReactJS,C#,JS]</h3>
              
           <CTA />
        
