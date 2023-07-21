@@ -30,8 +30,10 @@ const Header = () => {
           <h2 className="header_text">Hello I'm</h2>
           <h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
           <h1  className="header_text m-3  text-center" >ReactJS Developer</h1>
-           <h2 className="header_text m-3">Full Stack (React+ .NET& JS)</h2>
+           <h2 className="header_text m-3">Front-End Engineer</h2>
              <HeaderSocials />
+          <h3 className="header_text m-3">Full Stack React JS + C# + JS</h3>
+             
           <CTA />
        
           <div className="me">
