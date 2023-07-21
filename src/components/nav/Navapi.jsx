@@ -13,13 +13,14 @@ const Navbar =[
         img:<AiTwotoneHome/>,
     },
     
-    {
-        id:'#about',
-        img:<RiAccountCircleFill/>,
-    },
+   
      {
         id:'#portfolio',
       img:  <FaReact />,
+    },
+     {
+        id:'#testimonials',
+        img:<RiAccountCircleFill/>,
     },
     {
        

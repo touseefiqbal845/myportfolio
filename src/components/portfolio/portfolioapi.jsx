@@ -1,3 +1,4 @@
+import img0 from "../../assets/portfolio0.png"
 import img1 from "../../assets/portfolio1.png"
 import img2 from "../../assets/portfolio2.png"
 import img3 from "../../assets/portfolio3.png"
@@ -7,6 +8,13 @@ import img6 from "../../assets/portfolio6.png"
 import img7 from "../../assets/portfolio7.png"
 import img8 from "../../assets/portfolio8.png"
 const Portfolioitem=[
+    {
+        image:img0,
+        title:"Amazon Clone with Redux",
+         p:" Redux Library with Fake Store API ",
+        github:"https://github.com/touseefiqbal845/amazone-touseef",
+        demo:"https://amazone-pk-by-touseef.vercel.app/",
+    },
     {
         image:img1,
         title:"Touseef E-Commerse Store",

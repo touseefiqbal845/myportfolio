@@ -10,12 +10,26 @@ const ExpDetail1={
         small:"Experienced",
       
     },
+     {
+         icon:<BsFillPatchCheckFill/>,
+        h4:"Redux React",
+        small:"Experienced",
+    },
+    {
+         icon:<BsFillPatchCheckFill/>,
+        h4:"Tailwand CSS",
+        small:"Experienced",
+    },
     {
         icon:<BsFillPatchCheckFill/>,
         h4:"CSS",
         small:"Experienced",
     },
-   
+   {
+        icon:<BsFillPatchCheckFill/>,
+        h4:"React-Bootstrap",
+        small:"Experienced",
+    },
     {
         icon:<BsFillPatchCheckFill/>,
         h4:"Bootstrap ",
@@ -26,6 +40,12 @@ const ExpDetail1={
         h4:"HTML",
         small:"Experienced",
     },
+    {
+         icon:<BsFillPatchCheckFill/>,
+        h4:"Front-End Designing",
+        small:"Experienced",
+    },
+    
 ]
 },
 {
@@ -40,6 +60,11 @@ const ExpDetail1={
         {
             icon:<BsFillPatchCheckFill/>,
             h4:"MS SQL",
+            small:"Experienced",
+        },
+        {
+            icon:<BsFillPatchCheckFill/>,
+            h4:"JavaScript",
             small:"Experienced",
         },
 ]

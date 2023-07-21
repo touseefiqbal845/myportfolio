@@ -28,8 +28,9 @@ const Header = () => {
       <header>
         <div ref={headerRef} className="container header_container">
           <h2 className="header_text">Hello I'm</h2>
-          <h1 className="header_text text-align-center">Touseef Iqbal</h1>
-          <h1  className=" text-light" >ReactJS Developer</h1>
+          <h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
+          <h1  className="header_text m-3  text-center" >ReactJS Developer</h1>
+           <h2 className="header_text m-3">Full Stack (React+ .NET& JS)</h2>
              <HeaderSocials />
           <CTA />
        

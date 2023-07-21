@@ -6,8 +6,8 @@ const Experience = () => {
 const[front,setfront]=useState(ExpDetail1);
   return (
    <section id="experience">
-    <h5>What skills I have</h5>
-    <h2>My Experience</h2>
+    {/* <h5>What skills I have</h5> */}
+    <h2>What skills I have</h2>
     <div className='container experience_container'>
 {
     front.Experience.map((curlElem)=>{

@@ -5,21 +5,7 @@ const list=[
         {
             "p":"Lorem Ipsum is simply dummy text of the printing "
         },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
+       
     ]
 },
 {
@@ -28,24 +14,7 @@ const list=[
         {
             "p":"Lorem Ipsum is simply dummy text of the printing "
         },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },      
+            
     ]
 },
 {
@@ -54,21 +23,7 @@ const list=[
         {
             "p":"Lorem Ipsum is simply dummy text of the printing "
         },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
-        {
-            "p":"Lorem Ipsum is simply dummy text of the printing "
-        },
+       
 
     ]
 }

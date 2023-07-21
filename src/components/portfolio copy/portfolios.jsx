@@ -4,9 +4,9 @@ import Portfolioitem from './portfolioapi'
 const Portfolios = () => {
 const[portfoliodata,setportfoliodata]=useState(Portfolioitem);
   return (
-    <section  id='portfolio'>
+    <section  id='portfolio1'>
   <h5>Backend</h5>
-<h2>Backend Work .NET</h2>
+<h2>Backend Work .NET C# (CORE & MVC)</h2>
 <div className='container portfolio_container'>
 {
 
