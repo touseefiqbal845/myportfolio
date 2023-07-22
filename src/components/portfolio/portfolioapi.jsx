@@ -24,7 +24,7 @@ const Portfolioitem=[
     {
         image:img2,
         title:"Product Listing Shpify Store",
-          p:" Complete Product Listing and Cart Commerse with all necessary Shpping Features",
+          p:" Complete Product Listing and Cart Commerse with all necessary Shopping Features",
         github:"https://github.com/touseefiqbal845/react-product-listing",
         demo:"https://react-product-listing.vercel.app/",
     },
