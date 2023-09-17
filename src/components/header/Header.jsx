@@ -27,13 +27,20 @@ const Header = () => {
     <>
       <header>
      <div ref={headerRef} className="container header_container">
-          <h2 className="header_text">Hello I'm</h2>
-          <h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
-          
-           <h2 className="header_text m-3"></h2>
-             <HeaderSocials />
-          <h2  className="header_text m-3  text-center" >ReactJs Developer</h2>
-          <h2 className="header_text m-3">Full Stack =[MERN]</h2>
+      <h2 className="header_text">Hello I'm</h2>
+<h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
+
+{/* <h2 className="header_text m-3"></h2> */}
+<HeaderSocials />
+
+<br />
+
+<h2 className="header_text m-3 text-center">ReactJs Developer</h2>
+
+<br />
+
+<h2 className="header_text m-3">Full Stack =[MERN]</h2>
+
              
           <CTA /> 
   
