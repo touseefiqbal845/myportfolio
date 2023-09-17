@@ -7,43 +7,48 @@ const ExpDetail1={
     {
          icon:<BsFillPatchCheckFill/>,
         h4:"Reactjs",
-        small:"Experienced",
+        // small:"Experienced",
       
     },
      {
          icon:<BsFillPatchCheckFill/>,
         h4:"Redux React",
-        small:"Experienced",
+        // small:"Experienced",
     },
     {
          icon:<BsFillPatchCheckFill/>,
         h4:"Tailwand CSS",
-        small:"Experienced",
+        // small:"Experienced",
     },
     {
         icon:<BsFillPatchCheckFill/>,
         h4:"CSS",
-        small:"Experienced",
+        // small:"Experienced",
     },
    {
         icon:<BsFillPatchCheckFill/>,
         h4:"React-Bootstrap",
-        small:"Experienced",
+        // small:"Experienced",
     },
     {
         icon:<BsFillPatchCheckFill/>,
         h4:"Bootstrap ",
-        small:"Experienced",
+        // small:"Experienced",
     },
     {
          icon:<BsFillPatchCheckFill/>,
         h4:"HTML",
-        small:"Experienced",
+        // small:"Experienced",
+    },
+         {
+         icon:<BsFillPatchCheckFill/>,
+        h4:"Matersil UI",
+        // small:"Experienced",
     },
     {
          icon:<BsFillPatchCheckFill/>,
         h4:"Front-End Designing",
-        small:"Experienced",
+        // small:"Experienced",
     },
     
 ]
@@ -51,21 +56,26 @@ const ExpDetail1={
 {
 "heading":"Backend Development",
 "exp":[
+    {
+            icon:<BsFillPatchCheckFill/>,
+            h4:"MERN ",
+            // small:"Experienced",
+        },
     
         {
             icon:<BsFillPatchCheckFill/>,
-            h4:"ASP.NET MVC & Core",
-            small:"Experienced",
+            h4:"ASP .NET Core",
+            // small:"Experienced",
         },
         {
             icon:<BsFillPatchCheckFill/>,
             h4:"MS SQL",
-            small:"Experienced",
+            // small:"Experienced",
         },
         {
             icon:<BsFillPatchCheckFill/>,
             h4:"JavaScript",
-            small:"Experienced",
+            // small:"Experienced",
         },
 ]
 }
