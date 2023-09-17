@@ -36,7 +36,7 @@ const Header = () => {
           <h2 className="header_text m-3">Full Stack =[MERN]</h2>
              
           <CTA /> 
-  <CTA />
+  
        
           <div className="me">
             <img src={Me} alt="me" />
