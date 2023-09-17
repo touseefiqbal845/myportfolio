@@ -27,7 +27,7 @@ const ExpDetail1={
     },
    {
         icon:<BsFillPatchCheckFill/>,
-        h4:"React-Bootstrap",
+        h4:"R-Bootstrap",
         // small:"Experienced",
     },
     {
