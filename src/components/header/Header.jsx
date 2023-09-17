@@ -29,10 +29,11 @@ const Header = () => {
         <div ref={headerRef} className="container header_container">
           <h2 className="header_text">Hello I'm</h2>
           <h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
-          <h1  className="header_text m-3  text-center" >ReactJs Developer</h1>
-           <h2 className="header_text m-3">Front-End Engineer</h2>
+          
+{/*            <h2 className="header_text m-3">Front-End Engineer</h2> */}
              <HeaderSocials />
-{/*           <h3 className="header_text m-3">Full Stack =[MERN]</h3> */}
+          <h2  className="header_text m-3  text-center" >ReactJs Developer</h2>
+          <h2 className="header_text m-3">Full Stack =[MERN]</h2>
              
           <CTA />
        
