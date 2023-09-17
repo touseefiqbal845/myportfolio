@@ -6,7 +6,13 @@ const ExpDetail1={
     "exp":[
     {
          icon:<BsFillPatchCheckFill/>,
-        h4:"Reactjs",
+        h4:"Reactjs ",
+        // small:"Experienced",
+      
+    },
+         {
+         icon:<BsFillPatchCheckFill/>,
+        h4:"NextJs ",
         // small:"Experienced",
       
     },
@@ -42,14 +48,10 @@ const ExpDetail1={
     },
          {
          icon:<BsFillPatchCheckFill/>,
-        h4:"Matersil UI",
+        h4:"Material UI",
         // small:"Experienced",
     },
-    {
-         icon:<BsFillPatchCheckFill/>,
-        h4:"Front-End Designing",
-        // small:"Experienced",
-    },
+   
     
 ]
 },
@@ -58,13 +60,13 @@ const ExpDetail1={
 "exp":[
     {
             icon:<BsFillPatchCheckFill/>,
-            h4:"MERN ",
+            h4:"Mern",
             // small:"Experienced",
         },
     
         {
             icon:<BsFillPatchCheckFill/>,
-            h4:"ASP .NET Core",
+            h4:"C# .NET Core",
             // small:"Experienced",
         },
         {
