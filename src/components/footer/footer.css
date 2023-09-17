@@ -46,6 +46,7 @@ text-decoration: none;
     padding: 0.8rem;
     border-radius: 0.7rem;
     display: flex;
+     font-size: 3rem;
     border: 1px solid transparent;
 }
 .scroll_down{
