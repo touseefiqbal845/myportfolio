@@ -26,7 +26,7 @@ const Header = () => {
   return (
     <>
       <header>
-     <div ref={headerRef} className="container header_container">
+     <div ref={headerRef} >
       <h2 className="header_text">Hello I'm</h2>
 <h1 className="m-3 text-bold text-base font-xlg header_text text-align-center">Touseef Iqbal</h1>
 
