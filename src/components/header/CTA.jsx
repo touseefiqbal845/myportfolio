@@ -5,10 +5,12 @@ import res from '../../assets/res.pdf';
 const CTA = () => {
   return (
     <div className='cta'>
-{/*       <a href={CV} download className='btn'>Download CV</a> */}
-        <a href={res} download className='btn'>Download Resume</a>
-{/*          <a href='#portfolio'  className='btn btn-primary'>React Projects</a>   */}
-    </div>
+       <a href={res} download className='btn'>Download Resume</a>
+       </div>
+       // <a href={CV} download className='btn'>Download CV</a> 
+       
+        // <a href='#portfolio'  className='btn btn-primary'>React Projects</a>   
+   
   )
 }
 
