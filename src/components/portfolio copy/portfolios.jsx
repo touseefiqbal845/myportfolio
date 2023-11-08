@@ -6,7 +6,7 @@ const[portfoliodata,setportfoliodata]=useState(Portfolioitem);
   return (
     <section  id='portfolio1'>
   <h5>Backend</h5>
-<h2>Backend Work .NET C# (CORE & MVC) (Itself with Tutorial )</h2>
+<h2>Backend Work .NET C# (Web Form) </h2>
 <div className='container portfolio_container'>
 {
 
