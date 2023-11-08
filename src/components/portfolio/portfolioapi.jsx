@@ -7,7 +7,15 @@ import img5 from "../../assets/portfolio5.png"
 import img6 from "../../assets/portfolio6.png"
 import img7 from "../../assets/portfolio7.png"
 import img8 from "../../assets/portfolio8.png"
+import img9 from "../../assets/portfolio9.png"
 const Portfolioitem=[
+     {
+        image:img9,
+        title:"Service-Worker-PWA-Firebase ",
+         p:" Firebase Push Notification-PWA @ ReactJs Internee ",
+        github:"https://github.com/touseefiqbal845/service-workers-works",
+        demo:"https://service-workers-ten.vercel.app/",
+    },
     {
         image:img0,
         title:"Amazon Clone with Redux",
