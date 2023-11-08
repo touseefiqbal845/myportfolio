@@ -7,7 +7,7 @@ const[portfoliodata,setportfoliodata]=useState(Portfolioitem);
     <section  id='portfolio'>
   <h5> Recent Projects </h5>
 
-<h2> REACT Portfolio(Itself with Tutorial )</h2>
+<h2> React Projects</h2>
 
 <div className='container portfolio_container'>
 {
