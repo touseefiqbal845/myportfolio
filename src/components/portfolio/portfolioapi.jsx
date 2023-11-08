@@ -8,14 +8,10 @@ import img6 from "../../assets/portfolio6.png"
 import img7 from "../../assets/portfolio7.png"
 import img8 from "../../assets/portfolio8.png"
 import img9 from "../../assets/portfolio9.png"
+import img10 from "../../assets/portfolio10.png"
+
 const Portfolioitem=[
-     {
-        image:img9,
-        title:"Service-Worker-PWA-Firebase ",
-         p:" Firebase Push Notification-PWA @ ReactJs Internee ",
-        github:"https://github.com/touseefiqbal845/service-workers-works",
-        demo:"https://service-workers-ten.vercel.app/",
-    },
+    
     {
         image:img0,
         title:"Amazon Clone with Redux",
@@ -72,6 +68,21 @@ const Portfolioitem=[
         title:"CNN News API",
         github:"https://github.com/touseefiqbal845/newsapi",
     
+    },
+     
+     {
+        image:img9,
+        title:"Service-Worker-PWA-Firebase ",
+         p:" Firebase Push Notification-PWA @ ReactJs Internee ",
+        github:"https://github.com/touseefiqbal845/service-workers-works",
+        demo:"https://service-workers-ten.vercel.app/",
+    },
+        {
+        image:img10,
+        title:"Update and Delete Operation Using Redux Toolkit ",
+         p:" Redux Toolkit ",
+        github:"https://github.com/touseefiqbal845/redux-toolkit-async-thunk",
+        demo:"https://redux-toolkit-async-thunk-kohl.vercel.app/products",
     },
 ];
 export default Portfolioitem
