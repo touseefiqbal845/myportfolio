@@ -39,7 +39,7 @@ const Header = () => {
 
 <br />
 
-<h2 className="header_text m-3">Full Stack =[MERN Learning]</h2>
+<h2 className="header_text m-3">Web Developer</h2>
 
              
           <CTA /> 
