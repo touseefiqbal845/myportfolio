@@ -35,7 +35,7 @@ const Header = () => {
 
 <br />
 
-<h2 className="header_text m-3 text-center">ReactJs Developer</h2>
+<h2 className="header_text m-3 text-center">ReactJs Developer(NextJs)</h2>
 
 <br />
 
