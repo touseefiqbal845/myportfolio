@@ -60,25 +60,25 @@ const ExpDetail1={
 "exp":[
     {
             icon:<BsFillPatchCheckFill/>,
-            h4:"Mern Learning",
+            h4:"Mern Basics",
             // small:"Experienced",
         },
     
-        // {
-        //     icon:<BsFillPatchCheckFill/>,
-        //     h4:"C# .NET Core",
-        //     // small:"Experienced",
-        // },
+        {
+            icon:<BsFillPatchCheckFill/>,
+            h4:"C# .NET Core",
+            // small:"Experienced",
+        },
         // {
         //     icon:<BsFillPatchCheckFill/>,
         //     h4:"MS SQL",
         //     // small:"Experienced",
         // },
         // {
-        //     icon:<BsFillPatchCheckFill/>,
-        //     h4:"JavaScript",
-        //     // small:"Experienced",
-        // },
+            icon:<BsFillPatchCheckFill/>,
+            h4:"JavaScript",
+            // small:"Experienced",
+        },
 ]
 }
 ]
